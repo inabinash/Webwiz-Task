@@ -1,0 +1,98 @@
+.shipping p{
+    color: green;
+    text-decoration: underline green;
+  }
+  
+  .content_table{
+    border-collapse: collapse;
+    min-width: 200px;
+    min-height: 140px;
+    margin-right: 0px;
+    margin-top: 20px;
+    position: relative;
+    left: 584px;
+  }
+.content_table thead tr{
+  font-size: 20px;
+   text-align: left;
+}
+  
+  .product img{
+      width: 60px;
+      height: 60px;
+     position: relative;
+     left: 20%;
+  }   
+  .nav{
+    background-color: skyblue;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  .left{
+    background-color: white;
+    display: inline-block;
+    width: 50%;
+
+  }
+  .right {
+    background-color: gray;
+    width: 50%;
+    display: inline-block;
+  }
+  .nav ul li a{
+    color: white;
+    text-decoration: none;
+    margin: 0px 20px;
+  }
+  
+  .nav ul li{
+    display: inline-block;
+    
+    
+  }
+  .nav ul{
+    text-align: center;
+
+  }
+  
+  .black {
+    background-color: black;
+    color: white;
+    width: 100%;
+    font-family: cursive;
+    height: 150px;
+  }
+  .black p{
+    color: white;
+    font-size: 100px;
+  }
+  
+  .black thead{
+    color: green;
+    
+    
+  }
+  .left  p{
+        color: green;
+        text-decoration: green underline;
+  }
+ 
+  .left span{
+    background-color: green;
+    color: white;
+    border-radius: 20px;
+  position: relative;
+  
+    top: -33px;
+    left: 40vw;
+
+  }
+  footer span{
+    position: relative;
+    left: 700px;
+    top: -35px;
+    color: seagreen;
+    font-family: fantasy;
+
+  }
